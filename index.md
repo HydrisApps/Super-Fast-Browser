@@ -13,7 +13,7 @@ Improve the speed dial customization screen
   - Implement a drop down selector next to each speed dial button, to allow the user to choose the color of the speed dial button
   - For user edited speed dials, set the speed dial icon as the first letter of the title
 
-Add a ultra-fast option
+Add an ultra-fast option
   - This will basically disable all non-essential features to make the browser as fast as possible; for users that care less about featues and more about going at full speed
     
 Add context menu options for downloading video/audio
@@ -34,9 +34,9 @@ Night mode
 
 Anonymous browsing mode
 
-~~Improve sliding tab menu
-  - Sliding tab menu slide over content instead of pushing the content out of the way
-  - Add elevation to the top of the navigation drawer, also dimming it slightly~~
+~~Improve sliding tab menu~~
+  - ~~Sliding tab menu slide over content instead of pushing the content out of the way~~
+  - ~~Add elevation to the top of the navigation drawer, also dimming it slightly~~
     
 Change the default Amazon speed dial link to .com instead of the UK version
 
