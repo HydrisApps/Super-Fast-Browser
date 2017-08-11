@@ -40,6 +40,8 @@ Anonymous browsing mode
     
 Change the default Amazon speed dial link to .com instead of the UK version
 
+Implement Google SmartLock
+
 ## Support
 
 Having trouble with Super Fast Browser? Check out our [FAQ](http://aesirapps.com/sfb-faq/) or [contact support](https://aesirapps.com/contact-me/) and we’ll help you sort it out.
