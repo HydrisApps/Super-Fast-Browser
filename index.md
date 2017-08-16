@@ -10,7 +10,7 @@ You can check the [Hydrisoft website](http://www.hydrisoft.com) to see the lates
 
 Improve the speed dial customization screen
   - Implement a reset to default option
-  - Implement a drop down selector next to each speed dial button, to allow the user to choose the color of the speed dial button
+  - ~~Implement a drop down selector next to each speed dial button, to allow the user to choose the color of the speed dial button~~
   - ~~For user edited speed dials, set the speed dial icon as the first letter of the title~~
 
 Add an ultra-fast option
