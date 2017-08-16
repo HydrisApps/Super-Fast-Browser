@@ -9,7 +9,7 @@ You can check the [Hydrisoft website](http://www.hydrisoft.com) to see the lates
 *Items that have a ~~strike~~ have been implemented and are ready to be published in the next update.*
 
 Improve the speed dial customization screen
-  - Implement a reset to default option
+  - ~~Implement a reset to default option~~
   - ~~Implement a drop down selector next to each speed dial button, to allow the user to choose the color of the speed dial button~~
   - ~~For user edited speed dials, set the speed dial icon as the first letter of the title~~
 
